@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:husbandry/plant_seed",
+  "criteria": {
+    "enchanted_netherite_apple": {
+      "conditions": {
+        "items": [
+          {
+            "items": "apples_and_carrots:enchanted_netherite_apple"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.husbandry.obtain_enchanted_netherite_apple.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "apples_and_carrots:enchanted_netherite_apple"
+    },
+    "title": {
+      "translate": "advancements.husbandry.obtain_enchanted_netherite_apple.title"
+    }
+  },
+  "requirements": [
+    [
+      "enchanted_netherite_apple"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

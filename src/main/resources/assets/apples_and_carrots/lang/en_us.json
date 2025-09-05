@@ -1,0 +1,45 @@
+{
+  "item.apples_and_carrots.wooden_apple": "Wooden Apple",
+
+  "item.apples_and_carrots.stone_apple": "Stone Apple",
+
+  "item.apples_and_carrots.iron_apple": "Iron Apple",
+
+  "item.apples_and_carrots.diamond_apple": "Diamond Apple",
+
+  "item.apples_and_carrots.netherite_apple": "Netherite Apple",
+
+  "item.apples_and_carrots.enchanted_wooden_apple": "Enchanted Wooden Apple",
+
+  "item.apples_and_carrots.enchanted_stone_apple": "Enchanted Stone Apple",
+
+  "item.apples_and_carrots.enchanted_iron_apple": "Enchanted Iron Apple",
+
+  "item.apples_and_carrots.enchanted_diamond_apple": "Enchanted Diamond Apple",
+
+  "item.apples_and_carrots.enchanted_netherite_apple": "Enchanted Netherite Apple",
+
+  "item.apples_and_carrots.wooden_carrot": "Wooden Carrot",
+
+  "item.apples_and_carrots.stone_carrot": "Stone Carrot",
+
+  "item.apples_and_carrots.iron_carrot": "Iron Carrot",
+
+  "item.apples_and_carrots.diamond_carrot": "Diamond Carrot",
+
+  "item.apples_and_carrots.netherite_carrot": "Netherite Carrot",
+
+  "item.apples_and_carrots.god_apple": "God Apple",
+
+  "tooltip.apples_and_carrots.god_apple_item.lore": "\"100% guaranteed to grant you divine powers! \"",
+
+  "enchantment.apples_and_carrots.enchanted_food_upgrade": "Enchanted Food Upgrade",
+
+  "advancements.husbandry.obtain_enchanted_netherite_apple.title": "Why Did You Do That? ",
+
+  "advancements.husbandry.obtain_enchanted_netherite_apple.description": "Waste a Netherite Ingot and 30 Experience Levels on an Apple",
+
+  "advancements.husbandry.obtain_all_apples_and_carrots.title": "A Strange Collection of Fruits 'n Veggies",
+
+  "advancements.husbandry.obtain_all_apples_and_carrots.description": "Collect evey type of Apple and Carrot there is! "
+}

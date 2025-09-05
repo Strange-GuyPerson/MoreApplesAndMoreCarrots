@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_block"
+    },
+    "E": {
+      "item": "minecraft:experience_bottle"
+    },
+    "X": {
+      "item": "apples_and_carrots:iron_apple"
+    }
+  },
+  "pattern": [
+    "E#E",
+    "#X#",
+    "E#E"
+  ],
+  "result": {
+    "count": 1,
+    "id": "apples_and_carrots:enchanted_iron_apple"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "apples_and_carrots:item/wooden_apple"
+  }
+}
